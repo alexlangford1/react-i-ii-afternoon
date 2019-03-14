@@ -7,9 +7,9 @@ const data = [
     employer: "Twinder",
     title: "Physical Therapy Assistant",
     favoriteMovies: [
-      "That Night in Varennes (Nuit de Varennes, La)",
-      "Spy(ies) (Espion(s))",
-      "Klip (Clip)"
+      "That Night in Varennes ",
+      "Spy(ies) ",
+      "Klip"
     ]
   },
   {
@@ -22,7 +22,7 @@ const data = [
     favoriteMovies: [
       "Camp",
       "Her Highness and the Bellboy",
-      "Mona and the Time of Burning Love (Mona ja palavan rakkauden aika))"
+      "Mona and the Time of Burning Love"
     ]
   },
   {

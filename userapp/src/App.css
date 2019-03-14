@@ -1,0 +1,82 @@
+
+/* @font-face {
+  font-family: 'Raleway', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Raleway');
+} */
+
+.App {
+  font-family: 'Raleway', sans-serif;
+  background: #282c34;
+}
+
+#home {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+#home {
+  display: flex;
+  justify-content: flex-start;
+  background: #3cb5d6;
+  padding: 10px;
+  font-size: 0.6rem;
+}
+
+footer {
+  background: #1c1d1f;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.mid {
+  width: 80vw;
+  height: 50vh;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.buttonl {
+  font-family: 'Raleway', sans-serif;
+  position: relative; 
+  left: -30vw;
+  background: transparent;
+  border: none;
+  color: white;
+  outline: none;
+}
+.buttonr {
+  font-family: 'Raleway', sans-serif;
+  position: relative; 
+  right: -30vw;
+  background: transparent;
+  border: none;
+  color: white;
+  outline: none;
+}
+
+.button {
+  font-family: 'Raleway', sans-serif;
+  border-radius: 10px;
+  margin: 8px;
+  background: #3cb5d6;
+  padding: 5px;
+  font-weight: 700;
+  outline: none;
+  border: none;
+}
+
+.num {
+  position: relative;
+  right: -40vw;
+  
+}
